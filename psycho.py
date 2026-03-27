@@ -29,4 +29,4 @@ if Avg >= 90 or (Avg >=85 and Attendance >= 80):
     print("Eligible for reward: Yes")
 else:
     print("Eligible for reward: No")
-print("jdha lab choe shueth")
+
